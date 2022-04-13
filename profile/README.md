@@ -14,3 +14,8 @@ Source code of the bot is in the [Articuno](https://github.com/Articuno-org/Arti
 
 Further more, other repositories are for random stuff during our development work. Feel free to check them if you like.
 
+# Contribution
+
+Articuno is being developed with the [interactions.py](https://github.com/interactions-py/library) Python library, an easy, simple, scalable and modular Python API wrapper for interactions.
+
+Pull Requests are welcomed.
