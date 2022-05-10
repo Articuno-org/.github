@@ -19,3 +19,8 @@ Further more, other repositories are for random stuff during our development wor
 Articuno is being developed with the [interactions.py](https://github.com/interactions-py/library) Python library, an easy, simple, scalable and modular Python API wrapper for interactions.
 
 Pull Requests are welcomed.
+
+# License
+- **Every** repositories are licensed under The GNU General Public License v3.0.
+- Code for the bot is open but please use it for educational purposes. Trying to copy or create a clone without learning anything will not make you a better developer.
+- Common sense.
